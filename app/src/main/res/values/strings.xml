@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Demo Pilihan Bahasa</string>
+    <string name="thank_you">Terima Kasih</string>
+    <string name="pilihan_bahasa">Pilih Bahasa</string>
+    <string name="button" translatable="false">Ganti Bahasa</string>
+
+</resources>
